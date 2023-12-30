@@ -46,7 +46,7 @@
 
 ## 6. 발표 자료
 
-**<발표자료>**
+**<발표자료>**  
 https://drive.google.com/file/d/13To0sWiaV-pDKDwtRBu1n2Ce1Ze-qsM3/view?usp=drive_link
 
 
