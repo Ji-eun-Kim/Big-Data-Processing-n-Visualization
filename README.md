@@ -1,6 +1,10 @@
-# 따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안
+<h2 align='center'> 따릉이 대여량에 따른 성북구 따릉이 이용 최적화 제안 </h2>
+<h3 align='center'> [전공] 빅데이터처리와시각화 Project </h3>
+<h4 align='center'> (2022.05. ~ 2022.06.) </h4>
 
-<br/>
+![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+&nbsp;
 
 ## 1. 배경 및 목적
 
